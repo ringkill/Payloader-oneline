@@ -605,18 +605,4 @@ Payloader/
 **Zero external UI dependencies** — no UI library, pure handwritten CSS.
 
 
-## 📄 License
 
-[MIT License](LICENSE)
-
----
-
-<div align="center">
-
-**⭐ 如果这个项目对你有帮助，请给一个 Star！**
-
-**⭐ Star this repo if you find it useful!**
-
-[GitHub](https://github.com/3516634930/Payloader)
-
-</div>
